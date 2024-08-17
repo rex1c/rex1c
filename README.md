@@ -1,5 +1,5 @@
 [![MasterHead](https://i.postimg.cc/XYtLwxbS/realistic-3-D-animation-water-fall-in-bathroom-with-Office-flowers-and-plants-on-the-floor-i-1.png)](https://rex1c.me)
-<h1 align="center">Hello I am Ali Razmkhah 🤓</h1>
+<h1 align="center">Hello I am rex1c 🤓</h1>
 <h3 align="center">Backend developer for 6 years, now exploring bug bounty hunting.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rex1c&label=Profile%20views&color=0e75b6&style=flat" alt="rex1c" /> </p>
